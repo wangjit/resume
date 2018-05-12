@@ -1,6 +1,6 @@
 
 /**
- * The text could use some tweaks.
+ * 再对 HTML 加点样式
  */
 
 .md {
@@ -22,13 +22,7 @@
   margin: 0px;
 }
 
-/**
- * That's better.
- *
- * If you want to contact me, use the PGP keys on the left.
- *
- * You know, if you're into that sort of thing.
- */
+
 
 #pgp-text {
   font-size: 12px;

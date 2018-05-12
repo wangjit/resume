@@ -1,15 +1,17 @@
 /**
  *
- * Hey. My name's Samuel Reed. I'm CTO of BitMEX.com and frequent
- * open source contributor.
+ * Inspired by http://strml.net/
+ * 大家好，我是王嘉婷
+ * 五月了，好多公司还（不）在（再）招聘。
  *
- * I build interactive websites.
+ * 但是，请给我一次机会！
+ *
  *
  * How about some live coding?
  */
 
 /**
- * Let's begin. We start by animating... well, everything.
+ * 首先给所有元素加上过渡效果
  */
 
 * {
@@ -17,10 +19,10 @@
 }
 
 /**
- * That didn't do much. But you'll see.
+ * 没有太多的改变，但你会看到明显的效果。
  *
- * Black on white is really boring,
- * so let's do something about it.
+ * 白色背景太单调了，
+ * 我们来点背景。
  */
 
 html {
@@ -28,7 +30,7 @@ html {
 }
 
 /***
- * Hold on...
+ * 字体颜色变一下……
  */
 
 pre, a {
@@ -36,18 +38,18 @@ pre, a {
 }
 
 /**
- * That's better. Sorry about your eyes.
+ * 现在看起来清晰多了！
+ * 
+ * 现在我要尽可能的模拟编码情景。
  *
- * Working in this big empty space is tough.
- *
- * I'm going to make a nice area for us to work in.
+ * 准备好了吗——
  */
 
 pre:not(:empty) {
   overflow: auto;
   background: rgb(48, 48, 48);
   border: 1px solid #ccc;
-  max-height: 44.6%;
+  max-height: 74.6%;
   width: 49%;
   font-size: 14px;
   font-family: monospace;
@@ -58,8 +60,8 @@ pre:not(:empty) {
 }
 
 /**
- * Okay. We're going to start filling up the screen.
- * Let's get ready to do some work.
+ * 是不是已经很有感觉了？
+ * 继续看我表演 XD
  */
 
 #style-text {
@@ -68,8 +70,8 @@ pre:not(:empty) {
 }
 
 /**
- * This is good, but all the text is white!
- * Let's make it even more readable.
+ * 所有的代码都是白色的，
+ * 也许代码高亮会让一切都一目了然。
  */
 
 .comment       { color: #857F6B; font-style: italic; }
@@ -80,8 +82,8 @@ pre:not(:empty) {
 .value.px      { color: #F92772; }
 
 /**
- * Now we're getting somewhere.
- * Time to get a little perspective.
+ * 嗯，看起来舒服多了！
+ * 是时候换个角度了，加点 3D 效果 ：P。
  */
 
 body {
@@ -95,8 +97,7 @@ body {
 }
 
 /**
- * So, let's talk projects. That's why you're here, right?
- * I can't imagine you'd come just to see the pretty colors.
+ * 接下来我给自己准备一个编辑器
  */
 
 pre:not(#style-text) {

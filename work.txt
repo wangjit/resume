@@ -1,44 +1,63 @@
-STRML.net
+王嘉婷
 =========
 
-Samuel Reed
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
+一个妹子
+出生日期：23岁/1995年5月
+意向职位：Web前端工程师(实习)
+学历：本科/大四
 
-Contact
+----
+
+我是一个性格幽默、做事认真的人。 
+我喜欢研究所遇到的新技术，
+热衷解决项目遇到的问题，
+不给自己设边界，有 Geek 精神。
+具有时间概念，能在约定时间内完成任务。
+我正在寻找并希望加入一家以技术为驱动的公司，
+从事前端开发工作，并且可以提升中大型项目的驾驭能力，
+希望新工作有成长空间，技术上有挑战性，
+公司氛围好，使人有成就感的互联网公司。
+
+技能
+----
+
+* 熟悉 W3C 规范，熟练掌握HTML(5)和常用CSS(3)，
+  具有 像素级 还原设计稿的能力。
+
+* 熟练掌握原生JavaScript，
+  掌握重要概念如：原型，闭包，作用域链，面向对象等。 
+  熟练使用 ES6部分新特性。
+
+* 熟悉Vue框架及相关流行库的使用，
+  理解Vue的重要概念如：生命周期，双向数据绑定原理，
+  vuex，vue-router等。
+  可以基于 Vue 开发 web 应用。
+
+* 熟悉CMD&AMD&CommonJs机制，熟悉Webpack打包，
+  熟悉Npm & Git。
+* 熟悉HTTP协议及浏览器渲染原理，了解前端 性能优化 策略。
+
+联系方式
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+* 手机号码：15610007660
+* QQ：523021368
+* 微信：taurus955
+* 邮箱：523021368@qq.com / wjt199555@sina.com
 
-Projects
+项目经历
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
-and of course...
-* www.strml.net
+1. [Vue.js在线简历编辑器](https://wangjit.github.io/vue-resumer-1/dist/)
+2. [基于vue.js组件化的京东金融页面](https://wangjit.github.io/vue-JDFinance/dist/)
 
-Open Source
+
+链接
 -----------
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+* [GitHub](https://github.com/wangjit)
+* [我的博客（hexo）](https://wangjit.github.io/cin.github.io/)
+* [我的博客（简书）](https://www.jianshu.com/u/5e37cfb9c7fe)
 
 
+> 这个效果，创意来源于 [STRML](https://github.com/STRML/strml.net)。
