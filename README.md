@@ -1,22 +1,6 @@
-STRML.net
+王嘉婷的简历
 =========
 
-[View Site](http://strml.net)
+[预览](https://wangjit.github.io/resume/index.html)
 
-Building
---------
 
-```bash
-git clone git@github.com:STRML/strml.net.git
-cd strml.net
-npm install
-npm run dev
-# Open localhost:4003/index-dev.html in your browser
-```
-
-Building for Production
---------
-
-```bash
-npm run build
-```

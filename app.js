@@ -174,10 +174,10 @@ function createEventHandlers() {
   pauseEl.addEventListener('click', function(e) {
     e.preventDefault();
     if (paused) {
-      pauseEl.textContent = "Pause ||";
+      pauseEl.textContent = "暂停动画 ||";
       paused = false;
     } else {
-      pauseEl.textContent = "Resume >>";
+      pauseEl.textContent = "继续播放 >>";
       paused = true;
     }
   });
